@@ -1,0 +1,3 @@
+*************LISEZ-MOI**************
+
+Pour lancer le jeu, executez le fichier python jeu.py
