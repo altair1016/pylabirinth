@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: Utf-8 -*
 '''
-@author: Marco Iannella, Mattia Primavera
-@copyright: Copyrights for code authored by Marco Iannella, Mattia Primavera
+@author: Marco Iannella
+@copyright: Copyrights for code authored by Marco Iannella
 @version: 1.0.0
 '''
 import tkinter
