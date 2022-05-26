@@ -9,9 +9,12 @@ Everything is inside Jeu.py, where you can load one of the three difficulty leve
 
 Computer or server service where to host the python scripts.
 
-python3.7 intepreter with following modules installed: 
+python intepreter with following modules installed: 
 
 - Tkinter
-
+- sys
+- Os
+- time
+- threading 
 
 <img width="574" alt="Schermata 2022-05-27 alle 00 27 37" src="https://user-images.githubusercontent.com/3864934/170589892-3af7c9e9-5974-40fe-8e71-47b4b9825e87.png">
